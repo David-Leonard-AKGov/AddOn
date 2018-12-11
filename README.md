@@ -2,8 +2,13 @@
 
 #This repository is for moving the addon calculations from SAS to R
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #SAS Code Below
+=======
+
+#SAS Code below
+>>>>>>> eed963e984019dd691325c67eef1acbe530f9d3b
 
 /* 06/30/92, ADDON PROGRAM ORIGINALLY WRITTEN                               */
 /* 1992-1997, VARIOUS FORMATTING AND DATA MANAGEMENT CHANGES MADE           */
