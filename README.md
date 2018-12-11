@@ -1,6 +1,7 @@
 # AddOn
 
 #This repository is for moving the addon calculations from SAS to R
+<<<<<<< HEAD
 
 #SAS Code Below
 
@@ -1776,3 +1777,5 @@ DATA _NULL_;
 RUN;
 
 ods html close; /* close previous results */
+=======
+>>>>>>> ae334e98edfbfbb86be8e5a03973249aeef80c5c
